@@ -1,0 +1,54 @@
+body {
+  
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.titulo-principal{
+    padding-left: 20px;
+
+}
+#banner {
+  width: 100%;
+}
+
+.principal{
+    background-color :darkgray;
+    padding: 30px;
+}
+
+.title-center{
+  text-align: center;
+  
+}
+
+#paragrafo {
+  font-size: 20px;
+  text-align: center;
+}
+
+em strong {
+  color: red;
+}
+
+.beneficios{
+    background-color: white;
+    padding: 20px;
+    
+}
+
+.itens{
+    font-size: 20px;
+    font-style: italic;
+    color: red;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+}
+
+.banner-beneficio{
+width: 50%;
+}
