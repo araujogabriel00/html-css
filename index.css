@@ -1,23 +1,20 @@
 body {
-  
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-.titulo-principal{
-    padding-left: 20px;
-
+.titulo-principal {
+  padding-left: 20px;
 }
 #banner {
   width: 100%;
 }
 
-.principal{
-    background-color :darkgray;
-    padding: 30px;
+.principal {
+  background-color: darkgray;
+  padding: 30px;
 }
 
-.title-center{
+.title-center {
   text-align: center;
-  
 }
 
 #paragrafo {
@@ -29,26 +26,24 @@ em strong {
   color: red;
 }
 
-.beneficios{
-    background-color: white;
-    padding: 20px;
-    
+.beneficios {
+  background-color: white;
+  padding: 20px;
 }
 
-.itens{
-    font-size: 20px;
-    font-style: italic;
-    color: red;
+.itens {
+  font-size: 20px;
+  font-style: italic;
+  color: red;
 }
 
-ul{
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
-
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
 }
 
-.banner-beneficio{
-width: 50%;
+.banner-beneficio {
+  width: 50%;
 }
