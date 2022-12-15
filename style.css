@@ -28,9 +28,9 @@ nav a {
   text-decoration: none;
 }
 
-nav a:hover{
-    color: #000000;
-    text-decoration: underline;
+nav a:hover {
+  color: #000000;
+  text-decoration: underline;
 }
 
 .produtos {
@@ -51,15 +51,15 @@ nav a:hover{
 }
 
 .produtos li:hover {
-    border-color: yellow;
+  border-color: yellow;
 }
 
 .produtos li:active {
-    border-color: green;
+  border-color: green;
 }
 
 .produtos li:hover h2 {
-    font-size: 34px;
+  font-size: 34px;
 }
 
 .produtos h2 {
@@ -78,14 +78,36 @@ nav a:hover{
   margin-top: 10px;
 }
 
-footer{
+footer {
   text-align: center;
   background: url(imagens/bg.jpg);
   padding: 40px 0px;
 }
 
-.copyright{
-  color: #FFFFFF;
+.copyright {
+  color: #ffffff;
   font-size: 13px;
   margin: 20px;
+}
+
+main {
+  width: 940px;
+  margin: 0 auto;
+}
+
+form {
+  margin: 40px 0;
+}
+
+form label {
+  display: block;
+  font-size: 20px;
+  margin: 0 0 10px;
+}
+
+form input {
+  display: block;
+  margin: 0 0 10px;
+  padding: 10px 25px;
+  width: 50%;
 }
